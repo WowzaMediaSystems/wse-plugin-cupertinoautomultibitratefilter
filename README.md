@@ -5,7 +5,7 @@ The **ModuleCupertinoAutoMultibitrateFilter** module for [Wowza Streaming Engine
 Wowza Streaming Engine 4.2 or later is required.
 
 ## Usage
-When you configure a live application in Wowza Streaming Engine to create streams that are compliant with the Apple App Store, one of the requirements is to create an audio-only rendition of the stream for delivery to Apple iOS devices. A special multi-bitrate playlist is created that includes an audio-only rendition but this playlist may cause playback problems with other players that support Apple HLS playback. Use this module to filter player connections based on a player's User-Agent string in order to turn off the audio-only stream for players that have trouble playing the stream correctly. 
+When you configure a live application in Wowza Streaming Engine to create streams that are compliant with the Apple App Store, one of the requirements is to create an audio-only rendition of the stream for delivery to Apple iOS devices. A special multi-bitrate playlist is created that includes an audio-only rendition but this playlist may cause playback problems with other players that support Apple HLS playback. Use this module to filter player connections based on a player's User-Agent string in order to turn off the audio-only stream for players that have trouble playing the stream correctly.
 
 
 ## More resources
@@ -22,3 +22,5 @@ To use the compiled version of this module, see [How to filter audio-only rendit
 
 ## License
 This code is distributed under the [Wowza Public License](https://github.com/WowzaMediaSystems/wse-plugin-cupertinoautomultibitratefilter/blob/master/LICENSE.txt).
+
+![alt tag](http://wowzalogs.com/stats/githubimage.php?plugin=wse-plugin-cupertinoautomultibitratefilter)
