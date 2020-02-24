@@ -9,7 +9,7 @@ When you configure a live application in Wowza Streaming Engine to create stream
 
 
 ## More resources
-[Wowza Streaming Engine Server-Side API Reference](https://www.wowza.com/resources/WowzaStreamingEngine_ServerSideAPI.pdf)
+[Wowza Streaming Engine Server-Side API Reference](https://www.wowza.com/resources/serverapi/)
 
 [How to extend Wowza Streaming Engine using the Wowza IDE](https://www.wowza.com/forums/content.php?759-How-to-extend-Wowza-Streaming-Engine-using-the-Wowza-IDE)
 
@@ -22,5 +22,3 @@ To use the compiled version of this module, see [How to filter audio-only rendit
 
 ## License
 This code is distributed under the [Wowza Public License](https://github.com/WowzaMediaSystems/wse-plugin-cupertinoautomultibitratefilter/blob/master/LICENSE.txt).
-
-![alt tag](http://wowzalogs.com/stats/githubimage.php?plugin=wse-plugin-cupertinoautomultibitratefilter)
