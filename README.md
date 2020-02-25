@@ -1,6 +1,8 @@
 # CupertinoAutoMultibitrateFilter
 The **ModuleCupertinoAutoMultibitrateFilter** module for [Wowza Streaming Engine™ media server software](https://www.wowza.com/products/streaming-engine) enables you to create an audio-only rendition of the stream for delivery to Apple iOS devices.
 
+This repo includes a [compiled version](/lib/wse-plugin-cupertinoautomultibitratefilter.jar).
+
 ## Prerequisites
 Wowza Streaming Engine 4.2 or later is required.
 
@@ -9,13 +11,13 @@ When you configure a live application in Wowza Streaming Engine to create stream
 
 
 ## More resources
+To use the compiled version of this module, see [Filter audio-only rendition in Apple HLS auto-generated multi-bitrate playlist with a Wowza Streaming Engine Java module](https://www.wowza.com/docs/how-to-filter-audio-only-rendition-in-apple-hls-auto-generated-multi-bitrate-playlist-modulecupertinoautomultibitratefilter).
+
 [Wowza Streaming Engine Server-Side API Reference](https://www.wowza.com/resources/serverapi/)
 
-[How to extend Wowza Streaming Engine using the Wowza IDE](https://www.wowza.com/forums/content.php?759-How-to-extend-Wowza-Streaming-Engine-using-the-Wowza-IDE)
+[How to extend Wowza Streaming Engine using the Wowza IDE](https://www.wowza.com/docs/how-to-extend-wowza-streaming-engine-using-the-wowza-ide)
 
-Wowza Media Systems™ provides developers with a platform to create streaming applications and solutions. See [Wowza Developer Tools](https://www.wowza.com/resources/developers) to learn more about our APIs and SDK.
-
-To use the compiled version of this module, see [How to filter audio-only rendition in Apple HLS auto-generated multi-bitrate playlist (CupertinoAutoMultibitrateFilter)](https://www.wowza.com/forums/content.php?692-How-to-filter-audio-only-rendition-in-Apple-HLS-auto-generated-multi-bitrate-playlist-%28ModuleCupertinoAutoMultibitrateFilter%29).
+Wowza Media Systems™ provides developers with a platform to create streaming applications and solutions. See [Wowza Developer Tools](https://www.wowza.com/developer) to learn more about our APIs and SDK.
 
 ## Contact
 [Wowza Media Systems, LLC](https://www.wowza.com/contact)
